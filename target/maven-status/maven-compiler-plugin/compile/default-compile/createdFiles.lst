@@ -1,0 +1,12 @@
+com\example\management\service\CommunityService.class
+com\example\management\common\StatusCode.class
+com\example\management\service\impl\CommunityServiceImpl.class
+com\example\management\common\Result.class
+com\example\management\dao\CommunityMapper.class
+com\example\management\exception\GlobalExceptionHandler.class
+com\example\management\controller\CommunityController.class
+com\example\management\controller\FileController.class
+com\example\management\common\MessageConstant.class
+com\example\management\ManagementApplication.class
+com\example\management\domain\Community.class
+com\example\management\common\PageResult.class
